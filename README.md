@@ -1,5 +1,5 @@
 # nlp-econometrics
-Gabe Stengel and John Willet's program for automating econometrics work with natural language processing.
+Gabe Stengel's program for automating econometrics work with natural language processing.
 
 How to run:
 Make sure nlp-econometrics is in your python path, you can use:
